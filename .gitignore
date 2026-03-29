@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Base de datos (no subirla, crear local)
+*.db
+*.sqlite3
+
+# Variables de entorno / Secretos
+.env
+.ngrok
+
+# IDEs
+.vscode/
+.idea/
+
+#código propio para vaciar db
+temp_vaciar.py
