@@ -13,6 +13,4 @@ Prueba local en interfaz: http://127.0.0.1:8000/docs
 
 sudo systemctl status items_api.service
 
-### Nota:
-Para probar el proyecto se debe crear la base de datos local:
-DB_sqlite/datos.db
+> Nota: para probar el proyecto se debe crear la base de datos local: `DB_sqlite/datos.db`
